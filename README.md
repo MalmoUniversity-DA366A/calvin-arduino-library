@@ -5,6 +5,8 @@ The port is implemented as an arduino library and should be called during `setup
 
 ##	Installation
 
+** The following instruction is not consistent with the folder structure och naming conventions of this repo. Most likely it is the `src` folder that needs to be inlcuded as  a library, but that name doe snot comply with the Arduino naming convention. The folder actually called calvin arduino contains the example sketch. Uek **
+
 In order to use this library the library folder must be placed inside your Arduino libraries.
 
 1. Clone the repo och download as zip-archive. 
