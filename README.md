@@ -5,12 +5,10 @@ The port is implemented as an arduino library and should be called during `setup
 
 ##	Installation
 
-** The following instruction is not consistent with the folder structure och naming conventions of this repo. Most likely it is the `src` folder that needs to be inlcuded as  a library, but that name doe snot comply with the Arduino naming convention. The folder actually called calvin arduino contains the example sketch. Uek **
-
 In order to use this library the library folder must be placed inside your Arduino libraries.
 
 1. Clone the repo och download as zip-archive. 
-2. Navigate to `.../arduino-1.x/libraries/` and add the Calvin Arduino library folder. _(If the folder does not exist, simply add the folder)._
+2. Navigate to `.../arduino-1.x/libraries/` and add the entire _*CalvinMini*_ folder there. _(If the libraries folder does not exist, simply create the folder first)._
 3. Restart the Arduino application and the Calvin Arduino will be available to include to your sketch.
 
 For further information please browse the Documents folder.
