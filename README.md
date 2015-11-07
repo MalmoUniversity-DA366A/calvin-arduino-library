@@ -7,7 +7,7 @@ The port is implemented as an arduino library and should be called during `setup
 
 In order to use this library the library folder must be placed inside your Arduino libraries.
 
-1. Clone the repo och download as zip-archive. 
+1. Clone the repo and download as zip-archive. 
 
 2. Navigate to `.../arduino-1.x/libraries/` and add the entire _*CalvinMini*_ folder there. _(If the libraries folder does not exist, simply create the folder first)._
 
